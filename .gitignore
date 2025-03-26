@@ -2,5 +2,3 @@
 # ไว้กันไม่ให้ github อัพไฟล์ที่ไม่จำเป็นขึ้น cloud
 node_modules
 setting.env
-
-.env
