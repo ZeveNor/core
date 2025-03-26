@@ -1,4 +1,7 @@
-npx tsc -w
+## Getting Started
 
-"build": "tsc",
-"start": "node dist/index.js"
+First, run the development server:
+
+```bash
+node index.js
+```
